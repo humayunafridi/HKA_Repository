@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @humayunafridi
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently doing Python coding for different methods of ML.
+- 💞️ I’m looking to collaborate on Projects related to ML.
+- 📫 you can reach me at humayun.afridi@gmail.com
